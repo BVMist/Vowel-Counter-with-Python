@@ -7,5 +7,5 @@ Using basic python programming to count the number of vowels in a text.
 - Outputs a text saying the number of vowels in that text.
 
 # Example
-Input: "Hello"
+Input: "Hello"                            
 Output: "There is/are 2 vowel(s) in Hello."
